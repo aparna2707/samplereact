@@ -1,0 +1,11 @@
+.Register{
+    background-image: linear-gradient( rgb(17, 179, 219),rgb(4, 30, 114));
+    
+}
+
+.Register h1, h2{
+    color: azure; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgb(7, 7, 7);
+}

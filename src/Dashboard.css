@@ -1,0 +1,17 @@
+.Dashboard{
+    background-image: linear-gradient( rgb(126, 195, 226),rgb(4, 30, 114));
+    
+}
+
+.Dashboard h1{
+    color: azure; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgb(7, 7, 7);
+}
+.Dashboard h2{
+    color: rgb(255, 240, 247); 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 5px rgb(7, 7, 7);
+}
